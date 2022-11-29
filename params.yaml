@@ -2,3 +2,10 @@ data:
   raw: "../data/raw/DATA.csv"
   clean: "../data/clean/data_clean.csv"
   
+scalers:
+  standardscaler: "../scalers/standardscaler.pickle"
+  
+models:
+  random_forest: "../models/random_forest.pickle"
+  knn: "../models/knn.pickle"
+  logistic_regression: "../models/logistic_regression.pickle"
