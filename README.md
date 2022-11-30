@@ -1,4 +1,4 @@
-<img width="500" src="https://github.com/OliverEves/final_bootcamp_project/data/images/cover.png">
+<img width="500" src="https://github.com/OliverEves/final_bootcamp_project/blob/main/data/images/cover.png">
 
 
 ### Final Bootcamp Project
@@ -20,7 +20,7 @@ features and novel presentations of human monkeypox in a central London centre d
 </pre>
 
 ##### Data:
-</pre>
+<pre>
 Dataset consists of a CSV which have a record of 25,000 Patients with their corresponding 
 features and a target variable indicating if the patient has monkeypox or not.
 </pre>
