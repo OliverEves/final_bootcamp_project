@@ -1,4 +1,4 @@
-<img width="500" src="https://github.com/OliverEves/final_bootcamp_project/blob/main/data/images/cover.png">
+<img width="500" src="https://github.com/OliverEves/final_bootcamp_project/tree/main/data/images/Cover.png">
 
 
 ### Final Bootcamp Project
