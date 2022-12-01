@@ -5,6 +5,12 @@
 
 ## Monkey Pox Predictions
 
+##### Questions:
+<pre>
+What is the relation between the symptomes and the patients who tested positive for monkey pox?
+Is it possible to predict monkey pox patients correctly, based on the provided data?
+</pre>
+
 ##### Context:
 <pre>
 An ongoing outbreak of monkeypox, a viral disease, was confirmed in May 2022. The initial 
@@ -12,17 +18,13 @@ cluster of cases was found in the United Kingdom, where the first case was detec
 London on 6 May 2022 in a patient with a recent travel history from Nigeria.
 </pre>
 
-##### Content:
+##### Data:
 <pre>
 This is a SYNTHETIC dataset generated based on a study published by thebmj: Clinical 
 features and novel presentations of human monkeypox in a central London centre during the 
-2022 outbreak: descriptive case series.
-</pre>
-
-##### Data:
-<pre>
-Dataset consists of a CSV which have a record of 25,000 Patients with their corresponding 
-features and a target variable indicating if the patient has monkeypox or not.
+2022 outbreak: descriptive case series.Dataset consists of a CSV which have a record of 25,000 
+Patients with their corresponding features and a target variable indicating if the patient has 
+monkeypox or not.
 </pre>
 
 ##### Features:
@@ -33,6 +35,11 @@ features and a target variable indicating if the patient has monkeypox or not.
 Target Variable: `MonkeyPox`
 <br>
 The dataset currently contains boolean and categorical features.
+</pre>
+
+##### Presentation:
+<pre>
+For the tableau presentation, please click <a href='https://public.tableau.com/app/profile/olivereves/viz/monkeypox_16698549866490'>here</a>. 
 </pre>
 
 
