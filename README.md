@@ -39,7 +39,7 @@ The dataset currently contains boolean and categorical features.
 
 ##### Presentation:
 <pre>
-For the tableau presentation, please click <a href='https://public.tableau.com/app/profile/olivereves/viz/monkeypox_16698549866490'>here</a>. 
+For the tableau presentation, please click <a href='https://public.tableau.com/app/profile/olivereves/viz/monkeypox_16698549866490/Cover'>here</a>. 
 </pre>
 
 
