@@ -44,7 +44,8 @@ For the tableau presentation, please click <a href='https://public.tableau.com/a
 
 ##### Conclusion:
 <pre>
-According to the data provided, the best indicators, that patients will test positive for monkey pox are:
+According to the data provided, the best indicators, that patients will test positive for 
+monkey pox are:
 <br>
 `Fever` | `Swollen Lymph Nodes` | `Rectal Pain` | `HIV` | `Sexual Transmitted Deseases`
 </pre>
