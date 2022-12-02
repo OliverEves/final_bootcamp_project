@@ -42,5 +42,13 @@ The dataset currently contains boolean and categorical features.
 For the tableau presentation, please click <a href='https://public.tableau.com/app/profile/olivereves/viz/monkeypox_16698549866490/Cover'>here</a>. 
 </pre>
 
+##### Conclusion:
+<pre>
+According to the data provided, the best indicators, that patients will test positive for monkey pox are:
+<br>
+`Fever` | `Swollen Lymph Nodes` | `Rectal Pain` | `HIV` | `Sexual Transmitted Deseases`
+</pre>
+
+
 
 ##### Data_Source: https://www.kaggle.com/datasets/muhammad4hmed/monkeypox-patients-dataset
